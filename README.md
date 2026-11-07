@@ -2,11 +2,24 @@
 
 Video editor who builds **free, open-source tools** for creators and Mac users.
 I make the things I wish I had while editing: recovering a dead drive, keeping a Mac fast for
-After Effects and Premiere, and keeping my Instagram full of editing inspiration instead of noise.
+After Effects and Premiere, keeping my Instagram full of editing inspiration instead of noise, and
+learning English from the films I watch.
 
 ## Projects
 
 <table>
+  <tr>
+    <td width="96" align="center"><a href="https://github.com/kunalsharmavlog-hue/glossa"><img src="https://raw.githubusercontent.com/kunalsharmavlog-hue/glossa/main/docs/assets/icon-128.png" width="72" alt="Glossa"></a></td>
+    <td>
+      <b><a href="https://github.com/kunalsharmavlog-hue/glossa">Glossa</a></b> · Chrome extension<br>
+      Learn English from what you watch. Pause Netflix, YouTube or any video, click a subtitle word
+      and see its meaning in English, Hindi and Hinglish. Every Netflix film ends with a vocabulary PDF
+      saved to the folder you choose.<br>
+      <a href="https://github.com/kunalsharmavlog-hue/glossa/releases/latest">Download</a> ·
+      <a href="https://github.com/kunalsharmavlog-hue/glossa#install">Install guide</a> ·
+      <a href="https://kunalsharmavlog-hue.github.io/glossa/">Website</a>
+    </td>
+  </tr>
   <tr>
     <td width="96" align="center"><a href="https://github.com/kunalsharmavlog-hue/pangolin"><img src="https://raw.githubusercontent.com/kunalsharmavlog-hue/pangolin/main/brand/pangolin-app-icon-1024.png" width="72" alt="Pangolin"></a></td>
     <td>
